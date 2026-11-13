@@ -4,7 +4,9 @@ A responsive browser-based command center for Papeleo Notary & Services, includi
 
 ## Hosting
 
-This folder is ready for GitHub Pages. Publish the `main` branch at `/(root)`. No custom domain is configured. The existing business website at http://www.papeleotx.com is a separate site and remains unchanged.
+Public site: https://rondev1962.github.io/my-papeleo-notary-assistant/
+
+GitHub Pages publishes the `main` branch at `/(root)`. No custom domain is configured. The existing business website at http://www.papeleotx.com is a separate site and remains unchanged.
 
 ## Privacy
 
@@ -18,4 +20,4 @@ All estimates require current state-law verification. The supplied RON technolog
 
 `index.html`, `styles.css`, and `app.bundle.js` run the website. `app.js`, `defaults.js`, and `engine.js` are the editable JavaScript source. Graphics were supplied by the business owner. The round logo has its own strip below the portrait, avoiding overlap on desktop, tablet, and mobile layouts.
 
-The original local project includes the bundle-generation scripts and 32 passing calculation/application-logic checks. Automated visual device testing remains unverified.
+The original local project includes the bundle-generation scripts and 32 passing calculation/application-logic checks. The live site was reviewed in Chrome at 375 × 812 and 1440 × 812 responsive sizes. The fictional quote returned $118.50, copying succeeded, and the Quote, Replies, and Prep navigation worked. Physical-device and Safari/Firefox testing were not performed.
