@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="pplo-title"><title id="pplo-title">Papeleo Notary &amp; Services animated logo</title><defs>
+<linearGradient id="ink"><stop stop-color="#002c42"/><stop offset=".43" stop-color="#008fa5"/><stop offset=".65" stop-color="#00354a"/><stop offset="1" stop-color="#001c30"/></linearGradient>
+<linearGradient id="gold"><stop stop-color="#b66a00"/><stop offset=".35" stop-color="#ffd769"/><stop offset=".52" stop-color="#fff1b0"/><stop offset=".7" stop-color="#f3a700"/><stop offset="1" stop-color="#b86400"/></linearGradient>
+<linearGradient id="teal"><stop stop-color="#006b83"/><stop offset=".5" stop-color="#00c8c5"/><stop offset="1" stop-color="#00768d"/></linearGradient>
+<linearGradient id="orange"><stop stop-color="#ffc229"/><stop offset=".5" stop-color="#ff8a00"/><stop offset="1" stop-color="#f14a25"/></linearGradient>
+<linearGradient id="coral" x2=".6" y2="1"><stop stop-color="#ffe1a2"/><stop offset=".5" stop-color="#ffb02e"/><stop offset="1" stop-color="#f0444d"/></linearGradient>
+</defs>
+<g opacity="0"><rect x="395" y="94" width="445" height="392" rx="10" fill="#fffdf6" stroke="#dab867" stroke-width="2"/><path d="M435 151 H729 M435 176 H786 M435 201 H770 M435 226 H698" stroke="#d5dfdf" stroke-width="7" stroke-linecap="round"/><path d="M437 428 H792" stroke="#b9c9c9" stroke-width="2"/>
+<polyline points="455,407 473,394 482,414 500,387 516,415 538,402 568,406 605,394" fill="none" stroke="#005468" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="1"/></g>
+<g transform="translate(30 60) scale(1.03) rotate(0 195.38101878780103 365.07450787631444)" opacity="1"><g stroke="#fff2cf" stroke-width="2.2" stroke-linejoin="round">
+<path d="M202 318 Q104 313 39 241 L79 213 Q119 279 202 318Z" fill="url(#ink)"/>
+<path d="M202 318 Q96 277 48 189 L91 171 Q129 271 202 318Z" fill="url(#teal)"/>
+<path d="M202 318 Q107 247 79 146 L120 133 Q139 265 202 318Z" fill="#a49b17"/>
+<path d="M202 318 Q127 235 117 112 L158 109 Q151 239 202 318Z" fill="url(#orange)"/>
+<path d="M202 318 Q140 229 155 83 L209 81 Q172 213 202 318Z" fill="url(#coral)"/>
+</g>
+<g fill="none" stroke="#fff3c9" stroke-width="1.5" opacity=".9"><path d="M192 307 Q111 284 54 241 L78 225"/><path d="M192 305 Q110 261 62 191 L88 183"/><path d="M191 303 Q120 233 92 153 L114 147"/><path d="M193 300 Q139 229 129 122 L148 121"/><path d="M192 297 Q153 222 168 96 L194 96"/></g><path d="M157 79 C214 10 296 2 368 45" fill="none" stroke="url(#gold)" stroke-width="3.5"/>
+<path d="M228 205 C191 222 164 170 186 119 C209 63 269 36 319 44 C392 54 421 101 408 161 C394 225 329 258 275 243 C326 244 367 205 378 158 C393 101 367 64 321 53 C275 42 223 74 207 120 C192 163 199 194 228 205Z" fill="url(#ink)" stroke="#d6a64b" stroke-width="2"/>
+<path d="M227 201 C187 211 174 163 195 119 C219 69 269 43 316 48 C382 55 408 101 397 155 C385 213 335 246 283 244" fill="none" stroke="#05b7c6" stroke-width="2.5"/><g opacity="1"><g fill="none" stroke="url(#ink)" stroke-linecap="round"><path d="M120 319 C87 297 74 350 109 370 C166 401 267 332 322 343 C346 347 361 353 373 364 C357 343 341 339 326 339" stroke-width="6"/><path d="M305 343 C359 341 387 306 372 281 C362 264 341 275 347 286 C351 273 366 278 367 291 C371 316 340 335 305 343Z" stroke-width="3"/><path d="M360 328 Q405 298 427 248 M385 308 Q405 285 401 256 M395 294 Q430 287 442 275 M377 319 Q412 313 427 317 M365 331 Q391 331 400 339" stroke-width="3"/></g>
+<g stroke="url(#gold)" stroke-width="1.5"><path d="M426 259 Q410 240 426 211 Q443 242 426 259Z" fill="url(#teal)"/><path d="M404 287 Q389 269 399 243 Q418 265 404 287Z" fill="url(#ink)"/><path d="M418 289 Q427 269 455 272 Q441 295 418 289Z" fill="url(#teal)"/><path d="M391 291 Q376 280 382 257 Q398 270 391 291Z" fill="url(#orange)"/><path d="M396 315 Q417 300 437 317 Q414 324 396 315Z" fill="url(#coral)"/><path d="M372 333 Q390 323 408 342 Q384 347 372 333Z" fill="url(#orange)"/></g></g><g transform="rotate(20 246 226)">
+<path d="M230 182 L230 113 Q246 99 246 66 Q248 98 263 113 L260 182Z" fill="url(#gold)" stroke="#a65b00" stroke-width="1.7"/>
+<path d="M246 68 L246 130 L238 181" fill="none" stroke="#092a36" stroke-width="2.5"/><circle cx="246" cy="129" r="5.8" fill="#002c3b" stroke="#b36a00" stroke-width="2"/>
+<path d="M230 180 L260 180 L260 325 L230 325Z" fill="url(#ink)" stroke="#daa23e" stroke-width="1.6"/>
+<path d="M235 194 L235 312" stroke="#4edce0" stroke-width="2" opacity=".8"/>
+<path d="M228 178 Q245 174 262 178 L262 190 Q245 186 228 190Z M228 316 Q245 312 262 316 L262 329 Q245 325 228 329Z" fill="url(#gold)" stroke="#a96909" stroke-width="1.5"/>
+<path d="M232 329 L258 329 Q254 348 246 374 Q237 350 232 329Z" fill="url(#gold)" stroke="#a96909" stroke-width="1.7"/>
+<path d="M246 374 L246 345" stroke="#002b38" stroke-width="2.5"/><circle cx="246" cy="345" r="3.2" fill="#002b38"/>
+</g></g>
+<g opacity="1" transform="translate(0 0)"><text x="510" y="350" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="164" letter-spacing="-8" fill="url(#ink)" stroke="#bd830e" stroke-width=".65">apeleo</text><text x="517" y="418" font-family="Arial, Helvetica, sans-serif" font-size="29" letter-spacing="5.2" fill="#064452">NOTARY &amp; SERVICES</text><path d="M517 445 H1040" stroke="url(#gold)" stroke-width="2"/></g>
+</svg>
